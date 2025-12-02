@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Pacifico&family=Dancing+Script&family=Satisfy&family=Marck+Script&display=swap');
+
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#fullSignature, #shortSignature {
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ccc;
+    font-size: 32px;
+}
+
+.sample {
+    margin: 10px 0;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font-size: 28px;
+}
